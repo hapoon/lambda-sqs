@@ -1,4 +1,4 @@
-IMAGE=hapoon/lambda-go-template
+IMAGE=hapoon/lambda-sqs
 
 .PHONY: docker-build	
 docker-build:
